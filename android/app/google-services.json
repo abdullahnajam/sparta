@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434519934207",
+    "project_id": "sparta-4d903",
+    "storage_bucket": "sparta-4d903.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434519934207:android:173ae4419a2da3fc8238ca",
+        "android_client_info": {
+          "package_name": "com.sparta.sparta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434519934207-a2646cfd276mh7m070r3h168atui0bfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH-pPasIUmGYkvqEo-N5eyWItYtfnuvm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434519934207-a2646cfd276mh7m070r3h168atui0bfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
